@@ -45,6 +45,14 @@ If your organization values technical depth, structured problem-solving, and rel
 
 Contact: amoltathe8080@gmail.com
 
+⚡ Fun fact: I love turning complex technical problems into simple, practical solutions.
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amoltathesoftwareengineer/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amoltathe8080@gmail.com)
+
 ---
 
 ## 🎯 Core Skills & Technologies
