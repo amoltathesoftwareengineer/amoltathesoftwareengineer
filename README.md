@@ -195,6 +195,11 @@ Contact: amoltathe8080@gmail.com
 - ♟️ Chess (Strategy & Logical Thinking)  
 - 📚 Continuous Learning  
 
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
 
 <p align="center">
